@@ -4,7 +4,7 @@ from src.preprocess import extract_skeleton
 from src.graph import skeleton_to_graph
 
 # Configuration
-IMAGE_PATH = "data/raw/c2.jpeg"
+IMAGE_PATH = "data/raw/input2.png"
 
 
 def run_s2c_pipeline():
