@@ -1,1 +1,10 @@
-requirements.txt
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+matplotlib
+pillow
+pyyaml
+scipy
+tqdm
